@@ -1,1 +1,3 @@
 .secret/
+frontend/node-modules
+frontend/.env
